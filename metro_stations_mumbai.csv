@@ -1,0 +1,52 @@
+id,name,lat,lon,operator,station_type
+1435294693,Mansarovar,19.0164338,73.0806552,CR,light_rail
+1645802025,Khandeshwar,19.0073498,73.0952827,CR,light_rail
+5219622342,Dahanukarwadi,19.2062315,72.8348068,Unknown,subway
+5219622343,Kandivali (West),19.2140036,72.8373054,Unknown,subway
+5219622344,Borivali (West),19.2313925,72.8408607,Unknown,subway
+5219622345,Mandapeshwar - I.C. Colony,19.2495856,72.8458001,Unknown,subway
+5219622346,Kandarpada,19.2566337,72.850504,Unknown,subway
+5219622347,Anand Nagar,19.2572087,72.8663486,Unknown,subway
+5219623032,Shimpoli,19.2228332,72.8409432,Unknown,subway
+5219623047,Eksar,19.2403773,72.8434456,Unknown,subway
+5221297132,CSMI Airport International T2,19.1023335,72.8744692,Mumbai Metro Rail Corporation Ltd,subway
+5221297179,Bandra Kurla Complex (BKC),19.0606629,72.8546797,Mumbai Metro Rail Corporation Ltd,subway
+5787704195,SEEPZ,19.1259985,72.8737266,Mumbai Metro Rail Corporation Ltd,subway
+5787704196,MIDC - Andheri,19.1173537,72.8735966,Mumbai Metro Rail Corporation Ltd,subway
+5787704197,मरोळ नाका Marol Naka M3,19.1085041,72.878578,Mumbai Metro Rail Corporation Ltd,subway
+6020955334,Andheri,19.1204624,72.8487861,Unknown,subway
+9627118208,Dahisar (East) [Line 7],19.2506981,72.8666664,Unknown,subway
+9627118209,Dahisar (East) [Line 2],19.2517331,72.8673322,Unknown,subway
+9629564097,Aarey,19.1693242,72.8587918,Unknown,subway
+9629564098,Dindoshi,19.1797579,72.8582976,Unknown,subway
+9629564099,Kurar,19.1872999,72.8584547,Unknown,subway
+9629564100,Akurli,19.1981585,72.8604905,Unknown,subway
+9629564101,Poisar,19.2035171,72.8631041,Unknown,subway
+9629564102,Magathane,19.2167968,72.8668012,Unknown,subway
+9629564103,Devipada,19.2240357,72.8643251,Unknown,subway
+9629564104,Rashtriya Udyan,19.2348129,72.8630608,MMRDA,subway
+9629564105,Ovaripada,19.2431487,72.8641377,MMRDA,subway
+10576622687,Gundavali,19.1145125,72.8551556,Unknown,subway
+10576622712,Mogra,19.1284364,72.8554558,Unknown,subway
+10576622721,Jogeshwari (East),19.1429455,72.855185,Unknown,subway
+10576622722,Goregaon (East),19.1524492,72.8565966,Unknown,subway
+10576726748,Andheri (West),19.1291337,72.8314307,Unknown,subway
+10576726751,Lower Oshiwara,19.1406979,72.8317139,Unknown,subway
+10576726756,Oshiwara,19.1460351,72.833952,Unknown,subway
+10576726757,Goregaon (West),19.1530241,72.8356664,Unknown,subway
+10576726761,Lower Malad,19.1730984,72.8364801,Unknown,subway
+10576726762,Malad (West),19.1852851,72.8358611,Unknown,subway
+10576726763,Valnai-Meeth Chowky,19.1968293,72.8337752,Unknown,subway
+11335491947,CBD Belapur,19.0205999,73.0402663,CIDCO,subway
+11335491948,Sector 7,19.0229846,73.0479433,CIDCO,subway
+12074909129,Bandra Colony,19.0699627,72.8493601,Mumbai Metro Rail Corporation Ltd,subway
+12074909130,Santacruz M3,19.0792887,72.8471185,Mumbai Metro Rail Corporation Ltd,subway
+12074909131,CSMI Airport Domestic T1,19.093899,72.8535765,Mumbai Metro Rail Corporation Ltd,subway
+12074909132,Sahar Road,19.102196,72.8652361,Mumbai Metro Rail Corporation Ltd,subway
+12196197980,Bangur Nagar,19.1624723,72.8348708,Unknown,subway
+12855459845,Dadar M3,19.0236238,72.8392214,Mumbai Metro Rail Corporation Ltd,subway
+12855459846,Shitala Devi Mandir,19.0384641,72.8419646,Mumbai Metro Rail Corporation Ltd,subway
+12855459847,Dharavi,19.0462612,72.849741,Mumbai Metro Rail Corporation Ltd,subway
+12857565154,Acharya Atrey Chowk,18.9978202,72.8177201,Mumbai Metro Rail Corporation Ltd,subway
+12857565155,वरळी Worli,19.0086057,72.8192741,Mumbai Metro Rail Corporation Ltd,subway
+12857565156,Siddhivinayak Temple,19.0158935,72.8309199,Mumbai Metro Rail Corporation Ltd,subway

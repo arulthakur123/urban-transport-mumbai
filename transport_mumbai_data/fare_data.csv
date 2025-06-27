@@ -1,0 +1,5 @@
+Mode,Base_Fare,Per_KM_Rate
+Metro,10,2.0
+BEST Bus,5,1.5
+Auto,15,12.0
+Taxi,25,20.0
